@@ -1,0 +1,14 @@
+Availability
+
+What is availablity ?
+Availablity is the percentage of time that a system is accessible to clients and is oprated upon normal condition. For example if a system is 100% available 
+that means the system is behaving normaly with said functions all the time.
+
+Mathematically availablity "A" is the ratio which can be define as 
+
+Availablity "A" =  (Total Time - Amount of time system functionality is Down) 
+                  ___________________________________________________________ X 100
+                                                Total Time 
+
+Higher the "A" value is better.
+
