@@ -1,0 +1,24 @@
+Availability
+
+Example:
+
+Let's consider a financial transaction system that needs to maintain high availability. The system has the following characteristics over a one-year period:
+
+Total Uptime: 364 days
+Total Downtime: 1 day
+
+Step-by-Step Calculation:
+
+Convert days to hours (if necessary):
+
+365 x 24 hours/day  = 8760 hours
+364 x 24 hours/day  = 8736 hours
+
+Total downtime in hours
+
+1 x 24 hours/day = 24 hours
+
+Availablity "A" =  [ 8736 / (8736+24)] = 0.9972 ≈ 99.72 %
+
+
+
